@@ -104,7 +104,7 @@
    Clone this repo and ~cd~ to the directory with these instructions:
 
    #+BEGIN_SRC bash
-   git clone https://github.com/janestreet/install-ocaml
+   git clone https://github.com/ocamllabs/install-ocaml
    cd install-ocaml/01-hello-world
    #+END_SRC
 
